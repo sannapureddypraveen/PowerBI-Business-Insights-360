@@ -10,7 +10,6 @@ This project is a multi-page Power BI Dashboard built to provide end-to-end busi
 - **Executive View**: Top-level KPIs for decision-makers
 
 📁 **Files:**
-- `Business Insights 360.zip` → Contains the Power BI (.pbix) file
 - `Business Insights 360.pdf` → Dashboard snapshots for quick review
 
 🧠 **Skills Demonstrated:**
@@ -20,9 +19,5 @@ This project is a multi-page Power BI Dashboard built to provide end-to-end busi
 - KPI Cards & Filters
 - Visual storytelling
 
-📌 **Use Case:** Perfect for executive-level reporting and stakeholder presentations.
 
----
-
-🎯 Created as part of my **Power BI Daily Challenge (Day 12)**.
 
